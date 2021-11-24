@@ -1,2 +1,0 @@
-# JWTAuth
-jwt auth
